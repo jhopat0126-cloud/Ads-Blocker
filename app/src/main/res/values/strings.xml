@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdBlocker</string>
+    <string name="status_stopped">Protection: OFF</string>
+    <string name="status_running">Protection: ON</string>
+    <string name="btn_start">Start Blocking</string>
+    <string name="btn_stop">Stop Blocking</string>
+    <string name="blocked_count_label">Ads/trackers blocked this session: %1$d</string>
+    <string name="notif_channel_name">Ad Blocker Service</string>
+    <string name="notif_title">Ad Blocker is active</string>
+    <string name="notif_text">Blocking ad and tracker domains on this device</string>
+</resources>

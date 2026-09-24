@@ -1,0 +1,40 @@
+# One domain per line. Lines starting with # are ignored.
+# This is a small starter list — swap in a bigger list (e.g. a StevenBlack hosts file,
+# stripped of the "0.0.0.0 " prefix) for real-world coverage.
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+adservice.google.com
+adnxs.com
+adsafeprotected.com
+adsrvr.org
+adform.net
+adcolony.com
+applovin.com
+mopub.com
+unityads.unity3d.com
+facebook.com/tr
+graph.facebook.com
+amazon-adsystem.com
+taboola.com
+outbrain.com
+scorecardresearch.com
+moatads.com
+criteo.com
+pubmatic.com
+rubiconproject.com
+openx.net
+smartadserver.com
+inmobi.com
+startapp.com
+vungle.com
+chartboost.com
+flurry.com
+tapjoy.com
+ironsrc.com
+appsflyer.com
+adjust.com
+branch.io
